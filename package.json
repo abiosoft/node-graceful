@@ -1,6 +1,6 @@
 {
   "name": "graceful-terminate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gracefully shutdown your node app.",
   "main": "graceful.js",
   "scripts": {
