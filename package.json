@@ -1,0 +1,23 @@
+{
+  "name": "graceful",
+  "version": "0.0.1",
+  "description": "Gracefully shutdown your node app.",
+  "main": "graceful.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abiosoft/node-graceful"
+  },
+  "keywords": [
+    "graceful",
+    "shutdown"
+  ],
+  "author": "Abiola Ibrahim <abiola89@gmail.com> (http://abiosoft.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abiosoft/node-graceful/issues"
+  },
+  "homepage": "https://github.com/abiosoft/node-graceful"
+}
