@@ -1,5 +1,3 @@
-'use strict';
-
 let functions = [];
 
 let runFunctions = function() {

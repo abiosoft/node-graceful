@@ -1,5 +1,5 @@
 {
-  "name": "graceful",
+  "name": "graceful-terminate",
   "version": "0.0.1",
   "description": "Gracefully shutdown your node app.",
   "main": "graceful.js",
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "graceful",
-    "shutdown"
+    "shutdown",
+    "terminate"
   ],
   "author": "Abiola Ibrahim <abiola89@gmail.com> (http://abiosoft.com)",
   "license": "MIT",
