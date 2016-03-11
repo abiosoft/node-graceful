@@ -3,7 +3,7 @@ Gracefully shutdown your node app. Graceful interrupts `SIGTERM` and `SIGINT` si
 
 ### Usage
 ```js
-var graceful = require("graceful");
+var graceful = require("graceful-terminate");
 ```
 Cleanup before exit.
 ```js
