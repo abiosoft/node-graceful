@@ -1,4 +1,4 @@
-# graceful
+# graceful-terminate
 Gracefully shutdown your node app. Graceful interrupts `SIGTERM` and `SIGINT` signals.
 
 ### Usage
